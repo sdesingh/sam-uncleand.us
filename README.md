@@ -18,7 +18,7 @@ Along with completion of these courses, I will be doing following challenges:
 * Contribute to Open Source projects
   * Starter Idea #1 - Writing a extractor for [Youtube-dl](https://github.com/ytdl-org/youtube-dl) for any website that is not yet listed.
   * Advanced Starter Idea #1 - Understand how websites such as [https://indiacovid19.github.io](https://indiacovid19.github.io) and [https://ncov2019.live](https://ncov2019.live)
-* Create some useful app for [Confluence](https://atlassian.com/software/confluence] or [Jira](https://atlassian.com/software/jira)
+* Create some useful app for [Confluence](https://atlassian.com/software/confluence) or [Jira](https://atlassian.com/software/jira)
 
 cheers,  
 Raju
