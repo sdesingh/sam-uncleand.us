@@ -2,6 +2,7 @@
 Read more about this project on [raju's Guide](https://raju.guide/index.php/2020/05/01/uncle-and-us-experiment-in-learning-together/)
 
 **Time period**: May-August 2020
+
 **Participants**: [Atharva](https://atharva.uncleand.us), [Avik](https://avik.uncleand.us),[Gaurav aka Goga](https://gaurav.uncleand.us), [Sam the wise](https://sam.uncleand.us) and [Myself aka Uncle](https://raju.guide)
 
 This repository will host all assigments, projects that I complete as part of course work!
