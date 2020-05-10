@@ -14,7 +14,7 @@ I will be learning:
 * (Optional/Stretched Goal) - Completion of Data Science Course
 
 Along with completion of these courses, I will be doing following challenges:
-* Blog weekly - It can be about anything: Regarding course work, something that I learned or any other thing that's worth sharing!
+* Blog (at least) weekly - It can be about anything: Regarding course work, something that I learned or any other thing that's worth sharing!
 * Creating a Wordpress theme to be used on my current Blog [Raju's Guide](https://raju.guide)
 * Contribute to Open Source projects
   * Starter Idea #1 - Writing a extractor for [Youtube-dl](https://github.com/ytdl-org/youtube-dl) for any website that is not yet listed.
